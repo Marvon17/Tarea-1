@@ -5,7 +5,7 @@
 package server.server;
 /**
  *
- * @author Windows 10
+ * @author Marvin Jimenez
  */
 public class VServer extends javax.swing.JFrame {
 
