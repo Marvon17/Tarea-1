@@ -6,7 +6,7 @@ package server.server;
 
 /**
  *
- * @author Windows 10
+ * @author Marvin Jimenez
  */
 public class Server {
 
