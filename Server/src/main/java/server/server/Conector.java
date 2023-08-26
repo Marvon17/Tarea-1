@@ -9,7 +9,7 @@ import java.net.*;
 
 /**
  *
- * @author Windows 10
+ * @author Marvin Jimenez
  */
 public class Conector extends Thread{
     
