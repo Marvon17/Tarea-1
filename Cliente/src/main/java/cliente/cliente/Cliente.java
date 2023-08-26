@@ -6,7 +6,7 @@ package cliente.cliente;
 
 /**
  *
- * @author Windows 10
+ * @author Marvin Jimenez
  */
 public class Cliente {
 
