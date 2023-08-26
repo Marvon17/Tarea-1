@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Windows 10
+ * @author Marvin Jimenez
  */
 public class Conector extends Thread{
     
